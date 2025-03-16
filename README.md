@@ -1,5 +1,5 @@
 # Personal_Library_Manager
-A  simple and interactive library management system  built with Streamlit.   Easily  add, remove, search, and track books in your personal library. 
+A  simple and interactive library management system. Easily  add, remove, search, and track books in your personal library. 
 ✨ Features
 - Add Books – Store book details like title, author, year, genre, and read status.
 - Search Books – Find books by title or author.
