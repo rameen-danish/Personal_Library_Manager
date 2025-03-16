@@ -1,0 +1,23 @@
+[
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "year": 1951,
+        "genre": "Novel",
+        "read": false
+    },
+    {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "year": 1997,
+        "genre": " Novel, Fantasy Fiction, Children's literature, High fantasy",
+        "read": false
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "author": "J. K. Rowling",
+        "year": 1998,
+        "genre": " Novel, Fantasy Fiction, Children's literature, High fantasy",
+        "read": false
+    }
+]
